@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-heading
+{
+    text-align: center;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url("../images/backimage.png") no-repeat  center;
+    width: 99vw;
+    height: 100vh;
+}
+.mapflex
+{
+    border-top: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
